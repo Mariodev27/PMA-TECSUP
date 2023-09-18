@@ -1,6 +1,6 @@
 //Funciones sin retorno
 import Foundation
-/*
+
 func Operaciones(){
   print("Lista de operaciones")
 }
