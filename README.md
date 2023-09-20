@@ -1,2 +1,2 @@
-# Curso de Programación en Móviles Avanzado 🪐
+# Curso de Desarrollo de Soluciones en la Nube 🪐
 TECSUP
